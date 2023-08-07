@@ -15,7 +15,7 @@ int main() {
 		{
 			for(int k=0;k<=j;k++)
 			{
-				cout<<s[i+k];
+				cout<<s[i+k];//ok
 			}
 			cout<<endl;
 		}
